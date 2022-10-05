@@ -1,10 +1,19 @@
 //#region 
 var nombre = "Ana";
 let apellido = 'Saldivia';
-const edad = `16`;
+const edad = 16;
+var num1 = 500;
+var num2 = 10;
 //#endregion
 //#region 
 console.log(nombre)
 console.log(apellido)
 console.log(edad)
-    //#endregion
+//#endregion
+//#region 
+let x = num1/num2;
+console.log(x);
+//#endregion
+
+
+
