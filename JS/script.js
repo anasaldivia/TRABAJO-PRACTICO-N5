@@ -14,6 +14,12 @@ console.log(edad)
 let x = num1/num2;
 console.log(x);
 //#endregion
+//#region
+let numeros=[10, 20];
+for (numeros of numeros){
+    console.log(numeros);
+}
+//#endregion
 
 
 
